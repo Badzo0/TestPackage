@@ -1,0 +1,51 @@
+Package: Studentsurveyreportr
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: What the package does (one paragraph).
+License: file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
+Imports: 
+    bslib,
+    reactable,
+    shiny,
+      bslib,
+      reactable,
+      tidyverse,
+      readxl,
+      likert,
+      plyr,
+      naniar,
+      shinycssloaders,
+      waiter,
+      shinyWidgets,
+      shinyalert,
+      bslib,
+      reactable,
+      tidyverse,
+      readxl,
+      likert,
+      naniar,
+      shinycssloaders,
+      waiter,
+      fmsb,
+      markdown,
+      shinyalert,
+      shinyWidgets,
+      data.table,
+      reactable,
+      gt,
+      ggraph,
+      igraph,
+      tidytext,
+      stringr,
+      corrplot,
+      grid,
+      scales,
+      patchwork,
+      ggstatsplot,
+      ggpubr
